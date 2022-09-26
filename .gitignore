@@ -23,3 +23,8 @@ js.session
 .idea
 mydatabase
 *Zone.Identifier
+
+**/*.jir
+**/*.bin
+dialogue_intent_model
+entity_extraction_model
